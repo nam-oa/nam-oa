@@ -1,1 +1,1 @@
-- Hello, I'm new to coding and aiming towards web development!
+- Hello, I'm new!
